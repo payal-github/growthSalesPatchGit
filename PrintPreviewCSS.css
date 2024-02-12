@@ -1,0 +1,9 @@
+@media print {
+header * {
+visibility: hidden;
+}
+.oneUtilityBar {
+   
+    visibility: hidden !important;
+}
+}
